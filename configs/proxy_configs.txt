@@ -8,5 +8,3 @@ hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@104.250.239.32:49425/?sni=real.
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@38.190.150.10:49425/?sni=real.getafreenode.sbs#Kosovo-GetAFreeNode
-
